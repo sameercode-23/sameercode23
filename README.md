@@ -1,91 +1,72 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Sameer%20Shaikh&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Learner%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=55&descAlign=50" /> </div>
-👋 Hello World! I'm Sameer Shaikh
-<p align="center"> 💻 Aspiring Software Developer | 🚀 Tech Explorer | 🧠 DSA Learner </p>
-🧑‍💻 About Me
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=230&section=header&text=Sameer%20Shaikh&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Learner%20🚀%20|%20Problem%20Solver%20🧠%20|%20Tech%20Explorer%20💻&descAlignY=55&descAlign=50" /> </div>
+👋 Hey there! I'm Sameer Shaikh 😎
+<p align="center"> 💻 Aspiring Developer | 🚀 Tech Enthusiast | 🧠 DSA Explorer | 🌱 Lifelong Learner </p>
+🌟 About Me
 
-🎓 I am a passionate and dedicated learner focused on building a strong foundation in Computer Science and Software Development.
-💡 I enjoy solving logical problems and transforming ideas into working applications.
-📈 Currently working on improving my Data Structures & Algorithms skills for better problem-solving ability.
-🌱 I believe in continuous learning and consistent improvement.
+✨ Passionate about turning ideas into code
+🧠 Currently mastering Data Structures & Algorithms
+💡 Love solving logical problems & building mini projects
+🚀 Exploring real-world software development practices
+🎯 Goal: Become a highly skilled and impactful Software Engineer
 
-🎯 Current Focus
+⚡ Fun Fact: I enjoy building small projects just to test new concepts!
 
-📚 Mastering Data Structures & Algorithms
+🎯 Current Learning Journey
 
-🐍 Strengthening Python for real-world applications
+📚 Deep diving into DSA (Arrays, Linked List, Stack, Queue, Recursion...)
+🐍 Improving Python for scripting & problem solving
+☕ Strengthening OOP concepts with Java
+🌐 Learning Web Development fundamentals
+🛠️ Practicing Git & GitHub workflow
 
-☕ Deep diving into Object-Oriented Programming with Java
-
-🌐 Learning basics of Web Development
-
-🛠️ Building small-to-medium level projects to improve practical skills
-
-🛠️ Tech Stack
-👨‍💻 Programming Languages
+🛠️ Tech Stack & Tools
+👨‍💻 Languages
 
 🐍 Python
-
 ☕ Java
-
 🏗️ C
 
-⚙️ Tools & Technologies
+⚙️ Tools
 
-🧰 Git & GitHub
-
+🔧 Git & GitHub
 🖥️ VS Code
-
 🗄️ Basic SQL
+🤖 Arduino (Embedded Basics)
 
-🤖 Arduino (Basic Embedded Projects)
-
-📊 GitHub Analytics
+📊 GitHub Stats 📈
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sameercode-23&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameercode-23&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </div>
-🔥 Contribution Streak
+🔥 Contribution Streak ⚡
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameercode-23&theme=tokyonight&hide_border=true"/> </div>
-🏆 Achievements & Goals
+🏆 Goals for 2026
 
-✔️ Build 10+ practical projects
-✔️ Strengthen problem-solving skills
-✔️ Contribute to Open Source
-🎯 Long-Term Goal: Become a highly skilled Software Engineer
+✅ Build 15+ Real-World Projects
+✅ Solve 300+ DSA Problems
+✅ Contribute to Open Source
+🚀 Launch My Personal Portfolio Website
+💼 Land an Internship Opportunity
 
-📌 Featured Project Ideas (Upcoming)
+📌 Upcoming Project Ideas
 
-📚 DSA Practice Repository
-
+📝 Smart To-Do List App
 🌐 Personal Portfolio Website
+📊 DSA Practice Repository
+🤖 Arduino Automation Project
+📚 Mini Library Management System
 
-📝 To-Do List Web App
+📬 Let's Connect 🤝
 
-🤖 Arduino-based Mini Hardware Project
+📧 Email: sameer.shaikh@example.com
 
-📬 Connect With Me
+💼 LinkedIn: (Add your LinkedIn here)
+🌐 Portfolio: (Coming Soon...)
 
-📧 Email: ssameersshaikh123@gmail.com
+💭 Developer Quote
 
-💼 LinkedIn: (Add your LinkedIn link here)
-🌐 Portfolio: (Add when ready)
-
-✨ Developer Mindset
-
-“Consistency beats motivation. Small improvements every day lead to big results.”
+“First, solve the problem. Then, write the code.” 💡
 
 <div align="center">
-⭐ If you like my work, consider following me and starring my repositories!
+🌟 If you like my work, don't forget to follow & star my repositories!
 
-🚀 Code. Learn. Build. Repeat.
+🚀 Code • Learn • Build • Repeat 🔁
 
 </div>
-
-If you want, I can now create:
-
-🔥 A more advanced animated version
-
-🎨 A clean minimal professional version
-
-🌑 A dark hacker-style theme
-
-🏢 A resume-style corporate version
-
-🧠 A DSA-focused competitive programmer version
