@@ -1,36 +1,91 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sameer%20Shaikh%20|%20Code%20Explorer&fontSize=45" /> </div>
-💫 About Me 🚀
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Sameer%20Shaikh&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Learner%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=55&descAlign=50" /> </div>
+👋 Hello World! I'm Sameer Shaikh
+<p align="center"> 💻 Aspiring Software Developer | 🚀 Tech Explorer | 🧠 DSA Learner </p>
+🧑‍💻 About Me
 
-Hi 👋 I'm Sameer Shaikh!
+🎓 I am a passionate and dedicated learner focused on building a strong foundation in Computer Science and Software Development.
+💡 I enjoy solving logical problems and transforming ideas into working applications.
+📈 Currently working on improving my Data Structures & Algorithms skills for better problem-solving ability.
+🌱 I believe in continuous learning and consistent improvement.
 
-💻 Passionate about coding, problem-solving, and building real-world projects.
-🌱 Currently sharpening my skills in Data Structures & Algorithms and Software Development.
-🤝 Open to collaborating on beginner-friendly and open-source projects.
-📚 Learning and exploring Python 🐍, Java ☕, and core Computer Science concepts.
-🎯 Goal: To become a skilled developer and contribute to impactful tech projects.
-⚡ Fun fact: I love turning ideas into small practical coding projects!
+🎯 Current Focus
 
-🌐 Connect With Me 📱
+📚 Mastering Data Structures & Algorithms
 
-📧 Email: sameer.shaikh@example.com
+🐍 Strengthening Python for real-world applications
 
-💻 Tech Stack 🛠️
+☕ Deep diving into Object-Oriented Programming with Java
 
+🌐 Learning basics of Web Development
 
+🛠️ Building small-to-medium level projects to improve practical skills
 
+🛠️ Tech Stack
+👨‍💻 Programming Languages
 
+🐍 Python
 
+☕ Java
 
+🏗️ C
 
+⚙️ Tools & Technologies
 
-📊 GitHub Stats 📈
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sameercode-23&show_icons=true&theme=tokyonight&hide_border=true" alt="Sameer's Stats" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameercode-23&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </div>
-🔥 Streak Stats ⚡
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameercode-23&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </div>
-🏆 GitHub Trophies 🎖️
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sameercode-23&theme=onedark&column=7" alt="trophy" /> </div>
-✍️ Dev Quote 💬
+🧰 Git & GitHub
 
-“Code is like humor. When you have to explain it, it’s bad.” – Cory House
+🖥️ VS Code
 
-<div align="center"> <b>⭐ If you like my work, consider following me and starring my repositories! ⭐</b><br> 🚀 <i>Keep Learning, Keep Building</i> 🚀 </div>
+🗄️ Basic SQL
+
+🤖 Arduino (Basic Embedded Projects)
+
+📊 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sameercode-23&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameercode-23&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </div>
+🔥 Contribution Streak
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameercode-23&theme=tokyonight&hide_border=true"/> </div>
+🏆 Achievements & Goals
+
+✔️ Build 10+ practical projects
+✔️ Strengthen problem-solving skills
+✔️ Contribute to Open Source
+🎯 Long-Term Goal: Become a highly skilled Software Engineer
+
+📌 Featured Project Ideas (Upcoming)
+
+📚 DSA Practice Repository
+
+🌐 Personal Portfolio Website
+
+📝 To-Do List Web App
+
+🤖 Arduino-based Mini Hardware Project
+
+📬 Connect With Me
+
+📧 Email: ssameersshaikh123@gmail.com
+
+💼 LinkedIn: (Add your LinkedIn link here)
+🌐 Portfolio: (Add when ready)
+
+✨ Developer Mindset
+
+“Consistency beats motivation. Small improvements every day lead to big results.”
+
+<div align="center">
+⭐ If you like my work, consider following me and starring my repositories!
+
+🚀 Code. Learn. Build. Repeat.
+
+</div>
+
+If you want, I can now create:
+
+🔥 A more advanced animated version
+
+🎨 A clean minimal professional version
+
+🌑 A dark hacker-style theme
+
+🏢 A resume-style corporate version
+
+🧠 A DSA-focused competitive programmer version
